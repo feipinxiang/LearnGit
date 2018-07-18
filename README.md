@@ -2,5 +2,6 @@
 学习下git
 # h1 markdown
 
--[] todo1
--[x] todo2
+- [ ] todo1
+- [x] todo2
+- [ ] todo3
